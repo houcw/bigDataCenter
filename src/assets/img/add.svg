@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="19.5" height="19.5" viewBox="0 0 19.5 19.5">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #00c2cc;
+        stroke-linecap: round;
+        stroke-miterlimit: 10;
+        stroke-width: 1.5px;
+      }
+    </style>
+  </defs>
+  <g id="Group_7" data-name="Group 7" transform="translate(-0.361 -0.361)">
+    <path id="Line_6" data-name="Line 6" class="cls-1" d="M1.111,3.333h18" transform="translate(0 6.778)"/>
+    <path id="Line_6-2" data-name="Line 6" class="cls-1" d="M0,0H18" transform="translate(10.111 1.111) rotate(90)"/>
+  </g>
+</svg>

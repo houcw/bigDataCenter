@@ -1,0 +1,22 @@
+<svg id="提示" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #55cc80;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <g id="Group_3" data-name="Group 3">
+    <circle id="Oval" class="cls-1" cx="12" cy="12" r="12"/>
+    <path id="Path_3" data-name="Path 3" class="cls-2" d="M0,4,4,8l8-8" transform="translate(6 8.001)"/>
+  </g>
+</svg>

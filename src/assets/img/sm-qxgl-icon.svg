@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 14 14">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: 0.5;
+      }
+
+      .cls-2, .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        opacity: 0;
+      }
+
+      .cls-3 {
+        fill: none;
+      }
+
+      .cls-4 {
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 0.25px;
+      }
+    </style>
+  </defs>
+  <g id="Group_17" data-name="Group 17" class="cls-1" transform="translate(0 -0.5)">
+    <rect id="矩形_20" data-name="矩形 20" class="cls-2" width="14" height="14" transform="translate(0 0.5)"/>
+    <g id="gongyuguanli" transform="translate(0 0.5)">
+      <path id="Clip_2" data-name="Clip 2" class="cls-3" d="M0,0H14V13.994H0Z"/>
+      <g id="组_544" data-name="组 544">
+        <path id="Fill_3" data-name="Fill 3" class="cls-4" d="M12.659,12H1.068A1.181,1.181,0,0,1,0,10.734V1.266A1.181,1.181,0,0,1,1.068,0H12.659a1.181,1.181,0,0,1,1.068,1.266v9.468A1.181,1.181,0,0,1,12.659,12ZM1.068.971a.275.275,0,0,0-.248.295v9.468a.275.275,0,0,0,.248.295H12.659a.275.275,0,0,0,.248-.295V1.266a.275.275,0,0,0-.248-.295Z" transform="translate(0.136 1)"/>
+        <path id="Fill_4" data-name="Fill 4" class="cls-4" d="M9.517,4.614H5.773v-.82H9.517v.819ZM1.874,3.748A1.874,1.874,0,1,1,3.748,1.874,1.876,1.876,0,0,1,1.874,3.748Zm0-2.928A1.054,1.054,0,1,0,2.928,1.874,1.055,1.055,0,0,0,1.874.82Zm7.643,1.5H5.773V1.5H9.517v.819Z" transform="translate(2.61 4.115)"/>
+        <path id="Fill_5" data-name="Fill 5" class="cls-4" d="M5.212,2.606h-.82a1.786,1.786,0,0,0-3.572,0H0a2.606,2.606,0,0,1,5.212,0Z" transform="translate(1.878 7.044)"/>
+      </g>
+    </g>
+  </g>
+</svg>

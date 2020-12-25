@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <!--<meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">-->
+    <title>中控平台</title>
+    <link rel="shortcut icon" href="static/img/bicon.png" type="image/x-icon">
+    <style>
+      .ie-page{width: 330px;margin: auto;text-align: center;padding-top: 200px;display: none;}
+      .ie-img{margin-bottom: 30px;}
+      .ie-tip-text{font-size: 18px;color:#333333;margin-bottom: 15px;}
+      .ie-last-text{line-height:18px;font-size: 14px;color:#999999;}
+      .ie-last-text img{vertical-align: middle;}
+      .ie-last-text a{color:#00C2CC}
+    </style>
+  </head>
+  <body>
+    <div id="app">
+      <div class="ie-page" id="ie-page">
+        <!-- <p class="ie-img"><img src="static/img/ie-icon.svg" /></p> -->
+        <p class="ie-tip-text">请使用Chrome浏览器浏览此站点</p>
+        <div class="ie-last-text">
+            <img src="static/img/chrome-icon.svg" />
+            <a target="_blank" href="https://www.google.cn/chrome/">https://www.google.cn/chrome/</a>
+            <span>点击链接下载</span>
+        </div>
+      </div>
+    </div>
+    <!-- built files will be auto injected -->
+    <script>
+      if (!!window.ActiveXObject || "ActiveXObject" in window){
+        document.getElementById('ie-page').style.display = 'block'
+      }
+    </script>
+    
+  </body>
+</html>

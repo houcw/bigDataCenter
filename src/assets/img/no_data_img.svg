@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        opacity: 0;
+      }
+
+      .cls-2 {
+        fill: #c6c6c6;
+        opacity: 0.16;
+      }
+
+      .cls-3 {
+        fill: #cacccc;
+      }
+
+      .cls-4 {
+        fill: #f4f8f8;
+      }
+
+      .cls-5 {
+        fill: #dfe6e6;
+      }
+
+      .cls-6, .cls-8 {
+        fill: none;
+      }
+
+      .cls-6 {
+        stroke: #cacccc;
+        stroke-dasharray: 2 2;
+      }
+
+      .cls-7 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="组_986" data-name="组 986" transform="translate(-610 -582)">
+    <rect id="矩形_1227" data-name="矩形 1227" class="cls-1" width="100" height="100" transform="translate(610 582)"/>
+    <ellipse id="椭圆_301" data-name="椭圆 301" class="cls-2" cx="50" cy="5.882" rx="50" ry="5.882" transform="translate(610 670.235)"/>
+    <path id="联合_8" data-name="联合 8" class="cls-3" d="M0,58.824V23.389H.057L9.516,0H71.367l9.459,23.389h.057V58.824Z" transform="translate(619.558 617.294)"/>
+    <rect id="矩形_1222" data-name="矩形 1222" class="cls-4" width="69.118" height="83.824" transform="translate(625.441 592.294)"/>
+    <path id="减去_127" data-name="减去 127" class="cls-5" d="M80.881,35.295H0V0H19.042l2.984,15.442H58.855L61.839,0H80.881V35.294Z" transform="translate(619.559 640.822)"/>
+    <g id="矩形_1225" data-name="矩形 1225" class="cls-6" transform="translate(636.471 603.324)">
+      <rect class="cls-7" width="47.059" height="17.647"/>
+      <rect class="cls-8" x="0.5" y="0.5" width="46.059" height="16.647"/>
+    </g>
+    <g id="矩形_1226" data-name="矩形 1226" class="cls-6" transform="translate(636.471 628.324)">
+      <rect class="cls-7" width="47.059" height="5.882"/>
+      <rect class="cls-8" x="0.5" y="0.5" width="46.059" height="4.882"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 14 14">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        opacity: 0.5;
+      }
+    </style>
+  </defs>
+  <path id="酒店" class="cls-1" d="M179.067,183.267v-11.2h-7v11.2h7Zm1.4-8.925,3.871,2.419a.7.7,0,0,1,.329.594v6.612a.7.7,0,0,1-.7.7h-12.6a.7.7,0,0,1-.7-.7v-12.6a.7.7,0,0,1,.7-.7h8.4a.7.7,0,0,1,.7.7Zm0,1.651v7.274h2.8v-5.524Zm-7-1.826h4.2v1.4h-4.2Zm0,2.8h4.2v1.4h-4.2Z" transform="translate(-170.667 -170.667)"/>
+</svg>

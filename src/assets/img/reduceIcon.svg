@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ff5454;
+      }
+    </style>
+  </defs>
+  <path id="Combined_Shape_Copy_2" data-name="Combined Shape Copy 2" class="cls-1" d="M3.222,18.778A11,11,0,1,1,18.778,3.222,11,11,0,1,1,3.222,18.778ZM1.5,11A9.5,9.5,0,1,0,11,1.5,9.511,9.511,0,0,0,1.5,11ZM6,11.75a.75.75,0,1,1,0-1.5H16a.75.75,0,0,1,0,1.5Z"/>
+</svg>
