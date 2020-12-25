@@ -1,4 +1,4 @@
-# Center_control_platform-web-admin
+# echarts 大屏地图监控，数据统计
 
 > A Vue.js project
 
